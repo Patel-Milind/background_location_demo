@@ -1,6 +1,10 @@
 # location_demo
 
-A new Flutter project.
+Features : 
+
+- Background location implementation example.
+- Background location updates even app is killed.
+- Background api call supported.
 
 ## Getting Started
 
